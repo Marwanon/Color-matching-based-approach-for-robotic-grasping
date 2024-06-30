@@ -1,0 +1,9 @@
+maroon
+gray
+olive
+gray
+patriarch
+green
+gray
+navy
+teal
