@@ -19,7 +19,7 @@ Here we have test our approach based on two scenarios as:
 We use [CoppeliaSim 4.1][5] as the simulation environment.
 
 ## Code
-We do experiments on a NVIDIA Geforce RTX (4 gp). it can be run on cpu or gpu with 4gpu.
+We do experiments on a NVIDIA Geforce RTX (4 gp). it can be run on cpu or gpu.
 
 First run CoppeliaSim and open the file ```simulation/simulation.ttt``` to start the simulation. Then download the pre-trained models by running
 
