@@ -50,6 +50,8 @@ The files of the test cases are available in ```simulation/preset```.
 
 ## Vidoes
 ![Proposed Approach](images/Picture1.png)
+[Click here to watch the video](images/case1.gif)
+
 ## Acknowledgments
 We use the following code in our project
 - https://github.com/choicelab/grasping-invisible
