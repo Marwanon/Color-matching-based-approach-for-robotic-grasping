@@ -6,4 +6,4 @@ Object grasping is a basic but difficult task in robotic manipulation due to var
 
 
 Some manufacturing tasks, on the other hand, entail the grasping of a certain object but not all objects. In such a situation, the most efficient and easy way is to infer the target object by detecting the object's color feature. To accomplish this, we suggest a color matching approach for grasping that predicts the target object based on its color. Figure. I illustrates an example depicting the scene that is used in our robot grasp detection strategy.
-!(images/Picture2.png)
+![reason behind this approach](images/Picture2.png)
